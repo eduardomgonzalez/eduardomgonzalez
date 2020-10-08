@@ -10,29 +10,29 @@ Buena vida y nunca dejes de soñar!
 
 🔭  Hard Skills :
 
-· ⦿ HTML
-· ⦿ CSS
-· ⦿ JavaScript ES6+
-· ⦿ Java
-· ⦿ React.Js
-· ⦿ Bootstrap
-· ⦿ Material-UI
-· ⦿ Sass
-· ⦿ Node.Js, Express
-· ⦿ POO
-· ⦿ Git / GitHub
-· ⦿ MySQL
-· ⦿ Ingeniería de Software (Análisis y Diseño): UML, Diagramas de Clases, de Secuencia, de Actividades, etc.
+⦿ HTML
+⦿ CSS
+⦿ JavaScript ES6+
+⦿ Java
+⦿ React.Js
+⦿ Bootstrap
+⦿ Material-UI
+⦿ Sass
+⦿ Node.Js, Express
+⦿ POO
+⦿ Git / GitHub
+⦿ MySQL
+⦿ Ingeniería de Software (Análisis y Diseño): UML, Diagramas de Clases, de Secuencia, de Actividades, etc.
 
 
 🌱 Soft Skills :
 
-· ⦿ Creativo
-· ⦿ Autodidacta
-· ⦿ Responsable
-· ⦿ Dedicado
-· ⦿ Adaptable
-· ⦿ Capacidad para trabajar en equipo 
+⦿ Creativo
+⦿ Autodidacta
+⦿ Responsable
+⦿ Dedicado
+⦿ Adaptable
+⦿ Capacidad para trabajar en equipo 
 
 
 ### LinkedIn
