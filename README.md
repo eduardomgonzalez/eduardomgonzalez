@@ -1,10 +1,10 @@
-### Hi there 👋
+### Bienvenido! 👋
 
 <!--
 **eduardomgonzalez/eduardomgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-✨ Bienvenido/a! Te cuento que soy un apasionado por la programación y las tecnologías en general. Busco ampliar mis capacidades y habilidades para obtener nuevos horizontes en lo laboral y personal para poder progresar en todo sentido.
+✨ Hola! Te cuento que soy un apasionado por la programación y las tecnologías en general. Busco ampliar mis capacidades y habilidades para obtener nuevos horizontes en lo laboral y personal para poder progresar en todo sentido.
 Actualmente estoy capacitándome en diferentes plataformas de forma autodidacta en tecnologías como Bootstrap, Material-UI y profundizando ReactJs con redux, orientándome hacia el Front-End. Te dejo mis skills para que puedas conocerme más! Sino mandame un email o contactame por LinkedIn y hablamos, sobre programación, sobre tecnología, sobre lo que desees! :).
 Buena vida y nunca dejes de soñar!
 
