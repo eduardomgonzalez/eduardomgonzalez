@@ -16,7 +16,7 @@ Buena vida y nunca dejes de soñar!
 ⦿ Java
 ⦿ React.Js
 ⦿ Bootstrap
-⦿ salesforce (Aura Components, LWC, Apex Class, Apex Triggers, etc.)
+⦿ Salesforce (Aura Components, LWC, Apex Class, Apex Triggers, etc.)
 ⦿ Material-UI
 ⦿ Sass
 ⦿ Node.Js, Express
