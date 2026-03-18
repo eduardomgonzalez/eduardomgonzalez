@@ -5,7 +5,7 @@
 -->
 
 ✨ Hola! Te cuento que soy un apasionado por la programación y las tecnologías en general. Busco ampliar mis capacidades y habilidades para obtener nuevos horizontes en lo laboral y personal para poder progresar en todo sentido.
-Tengo experiencia como programador en empresas pero especificamente con Salesforce, trabajando con Aura Components, HTML, CSS, JavaScript, LWC, Apex Class, Apex Triggers, configuraciones declarativas, etc.
+Tengo experiencia como programador en empresas pero especificamente con Salesforce, trabajando con Aura Components, HTML, CSS, JavaScript, LWC, Apex Class, Apex Triggers, configuraciones declarativas, Mulesoft, integraciones, etc.
 Actualmente sigo capacitándome en diferentes plataformas de forma autodidacta en tecnologías como Bootstrap, Material-UI, ReactJs ReactJs, también sigo obteniendo conocimientos dentro del mundo Salesforce. Te dejo mis skills para que puedas conocerme más! Sino mandame un email o contactame por LinkedIn y hablamos, sobre programación, sobre tecnología, sobre lo que desees! :).
 Buena vida y nunca dejes de soñar!
 
@@ -17,7 +17,7 @@ Buena vida y nunca dejes de soñar!
 ⦿ Java
 ⦿ React.Js
 ⦿ Bootstrap
-⦿ Salesforce (Aura Components, LWC, Apex Class, Apex Triggers, etc.)
+⦿ Salesforce (Aura Components, LWC, Apex Class, Apex Triggers, Mulesoft, Integraciones, etc.)
 ⦿ Material-UI
 ⦿ Sass
 ⦿ Node.Js, Express
